@@ -109,8 +109,7 @@ Name : SHREYASH DAS
 
 This project is licensed under the MIT License.
 
-🙏 Acknowledgments
-## 🙏 Acknowledgments
+ 🙏 Acknowledgments
 
 This project was completed as part of the **Machine Learning Internship Program** at **Denvey EduGrow**.
 
